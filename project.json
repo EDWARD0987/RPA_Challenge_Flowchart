@@ -40,9 +40,7 @@
       "privateWorkflows": []
     },
     "processOptions": {
-      "ignoredFiles": [
-        "Flowchart.xaml"
-      ]
+      "ignoredFiles": []
     },
     "fileInfoCollection": [],
     "modernBehavior": true
